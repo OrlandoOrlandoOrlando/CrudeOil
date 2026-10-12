@@ -2,7 +2,8 @@
 ## <a href="https://docs.google.com/document/d/17kew8sEoZZ0H8wx0o-UP4AaCc7FyffzZC2QRex3_Hck/edit?usp=sharing">CS3510 Topic Proposal</a>
 ## <a href="https://docs.google.com/document/d/13LeIq00Rloz8qbs7mOzGWrCBViuDX1YiLEZuxXUtjVU/edit?usp=sharing">CS3510 Software Demo</a>
 ## <a href="https://docs.google.com/document/d/1ztoh7onjKemq0fqxtnMklygQ-cwo8ZrGWaubQsrP5t4/edit?usp=sharing">CS3510 Written Report</a>
-## Guide
+## User Guide
+## Developer Guide
 ### Git Codespaces
 Codespaces offer a way to edit code in the browser. Skip to <a href="#git-part-1">Git Part 1</a> if you want to code on your machine.
 1. Go to the <a href="https://github.com/OrlandoOrlandoOrlando/CrudeOil.git">Github page</a>
