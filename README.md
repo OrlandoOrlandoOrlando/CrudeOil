@@ -2,6 +2,7 @@
 ## <a href="https://docs.google.com/document/d/17kew8sEoZZ0H8wx0o-UP4AaCc7FyffzZC2QRex3_Hck/edit?usp=sharing">CS3510 Topic Proposal</a>
 ## <a href="https://docs.google.com/document/d/13LeIq00Rloz8qbs7mOzGWrCBViuDX1YiLEZuxXUtjVU/edit?usp=sharing">CS3510 Software Demo</a>
 ## <a href="https://docs.google.com/document/d/1ztoh7onjKemq0fqxtnMklygQ-cwo8ZrGWaubQsrP5t4/edit?usp=sharing">CS3510 Written Report</a>
+## <a href="https://csustan-my.sharepoint.com/:p:/r/personal/csanchez62_csustan_edu/Documents/Project%20Slides.pptx?d=w44f34184454d40f98008ca29972f7b47&csf=1&web=1&e=W8G6A1">CS5310 Final Project Slides</a>
 ## Guide
 ### Git Codespaces
 Codespaces offer a way to edit code in the browser. Skip to <a href="#git-part-1">Git Part 1</a> if you want to code on your machine.
